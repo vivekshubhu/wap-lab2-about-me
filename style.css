@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+    
+    color:#FFF;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: #FFF;
+}
+
+b {
+    color: yellow;
+}
+
+.mov-desc{
+    font-style: italic;
+}
+a{
+    color:red;
+}
+
+.left-image{
+    width:50%;
+    float: left;
+}
+
+.right-image{
+    width:50%;
+    float:right;
+}
+
+img{
+    margin-left: 20px;
+    height: 400px;
+    width:450px;
+}
+
+.validator-img{
+    height:50px;
+    width:80px;
+}
